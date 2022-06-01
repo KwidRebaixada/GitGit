@@ -1,3 +1,1 @@
-Olá, Vamos usar o git. 
-
-Vamos alterar algo para testar
+Basicamente o jogo da forca. 
